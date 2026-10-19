@@ -25,3 +25,11 @@ The `circuitbench-os.svg` wallpaper is original. CircuitBench OS is an independe
 
 See [FEATURES.md](FEATURES.md) for three local tools included for electronics schematics, PCB design, and microcontroller projects.
 
+
+The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, Blender**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, Blender**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, Blender**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, Blender**. See [FEATURES.md](FEATURES.md).

@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/circuitbench-os-workspace features/circuitbench-os-plan features/circuitbench-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for electronics schematics, PCB design, and microcontroller projects:
+
+1. **GNOME Builder** — org.gnome.Builder
+2. **Wireshark** — org.wireshark.Wireshark
+3. **Blender** — org.blender.Blender
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
